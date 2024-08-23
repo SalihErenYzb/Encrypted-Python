@@ -1,5 +1,5 @@
 # Encrypted-Python
-Self Modifying Python file to store passwords, secrets or anything that you want to encrypt. Uses AES encryption to encrypt and decrypt.wtff kimsin lan sen
+Self Modifying Python file to store passwords, secrets or anything that you want to encrypt. Uses AES encryption to encrypt and decrypt.
 
 # Usage
 Double-click the file to launch (requires Python interpreter).
